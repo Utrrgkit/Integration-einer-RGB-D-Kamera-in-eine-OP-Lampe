@@ -1,6 +1,7 @@
 ﻿# Integration of a RGB-D camera in a opration lamp
 
 Author: Junsheng Ding
+
 Project supervisor: [Christian Marzi]
 
 This project is developed with ORB-Slam2 and Intel depth camera D415. The ros_ros_rgbd.cc from original ORB-Slam2 has been mordified and some more features are added:
