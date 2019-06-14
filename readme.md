@@ -4,7 +4,7 @@ Author: Junsheng Ding
 
 Project supervisor: [Christian Marzi]
 
-This project is developed with ORB-Slam2 and Intel depth camera D415. The ros_ros_rgbd.cc from original ORB-Slam2 has been mordified and some more features are added:
+This project is developed with ORB-Slam2 and Intel depth camera D415. The ros_rgbd.cc from original ORB-Slam2 has been mordified and some more features are added:
   - publish RGBD point cloud in Rviz 
   - calibrate camera pose with a chessboard and ART system in OP-Labor
   - publish camera pose in OP-Labor as tf in tf_tree 
